@@ -16,7 +16,7 @@ public class domaci {
     }
 
 	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
+	Scanner scan = new Scanner(System.in);
         int m, n;
 
         System.out.println("Unesite n: ");
