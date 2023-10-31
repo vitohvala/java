@@ -12,7 +12,7 @@ public class domaci {
     }
 
 	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
+	Scanner scan = new Scanner(System.in);
         int n, s = 0;
 
         System.out.println("Unesite n: ");
