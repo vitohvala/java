@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class domaci {
 
 	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
+	Scanner scan = new Scanner(System.in);
         int x, y;
 
         System.out.println("Unesite X: ");
